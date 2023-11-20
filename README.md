@@ -1,1 +1,1 @@
-# DocsGenius
+# GeniusJSDocs
